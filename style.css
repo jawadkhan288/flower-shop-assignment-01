@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    height: 3000px;
+    height: 4000px;
 }
 .banner{
     display: flex;
@@ -166,4 +166,33 @@ font-weight: 800;
 .Instagram-section{
     margin: 0px 100px 0 100px;
     
+}
+
+.get-section{
+   
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url('./images/Rectangle\ 9.png');
+
+}
+.contact{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    font-size: 16px;
+    color:#757575;
+    border: 0px;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 461px;
+}
+.contact-div{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    
+}
+.footer{
+    background-color: black;
+    text-align: center;
 }
